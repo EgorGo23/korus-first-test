@@ -1,0 +1,24 @@
+{
+  "name": "korus-first-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorGo23/korus-first-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgorGo23/korus-first-test/issues"
+  },
+  "homepage": "https://github.com/EgorGo23/korus-first-test#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
